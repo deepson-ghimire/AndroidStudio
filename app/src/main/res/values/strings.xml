@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nepathya</string>
+    <string name= "bt1_label">First Button</string>
+    <string name= "bt2_label">Second Button</string>
+    <string name= "bt3_label">Third Button</string>
+    <string name = "login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_image_description">Image</string>
+    <string name="login_button_label">Login</string>
+    <string name="login_no_account"> Did\'t have an account? </string>
+    <string-array name="dropdown_items">
+        <items>Java</items>
+        <items>JavaScript</items>
+        <items>Python</items>
+        <items>C++</items>
+    </string-array>
+</resources>
